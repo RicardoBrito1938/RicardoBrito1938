@@ -18,7 +18,7 @@
   <img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ricardo-Next" height="60" width="80" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png">   
+  <img align="center" alt="Ricardo-Next" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/src/branch/master/icons/nextjs/nextjs-original-wordmark.svg">   
      <img align="center" alt="Ricardo-Node" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rJjvxeZNo98pUrBspIVJ9RiHjdxvBoiz6g&usqp=CAU">   
 </div>
   
