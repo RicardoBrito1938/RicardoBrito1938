@@ -19,7 +19,7 @@
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-Next" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/nextjs/nextjs-original-wordmark.svg">   
-     <img align="center" alt="Ricardo-Node" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rJjvxeZNo98pUrBspIVJ9RiHjdxvBoiz6g&usqp=CAU">   
+     <img align="center" alt="Ricardo-Node" height="30" width="40" src="https://git.svarun.dev/devicons/devicon/raw/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/nodejs/nodejs-plain-wordmark.svg">   
 </div>
   
   ##
