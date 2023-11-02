@@ -19,6 +19,7 @@
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-Next" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/nextjs/nextjs-original-wordmark.svg">   
+  <img align="center" alt="Ricardo-Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">   
   <img align="center" alt="Ricardo-Node" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/nodejs/nodejs-plain-wordmark.svg"> 
    <img align="center" alt="Ricardo-Node" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/nestjs/nestjs-plain-wordmark.svg">
    <img align="center" alt="Ricardo-Go" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
