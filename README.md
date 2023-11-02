@@ -22,7 +22,7 @@
   <img align="center" alt="Ricardo-Node" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/nodejs/nodejs-plain-wordmark.svg"> 
    <img align="center" alt="Ricardo-Node" height="60" width="80" src="https://git.svarun.dev/devicons/devicon/raw/commit/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/nestjs/nestjs-plain-wordmark.svg">
    <img align="center" alt="Ricardo-Go" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-   <img align="center" alt="Ricardo-Flutter" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Ricardo-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
   
   ##
