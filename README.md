@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning typescript,nextJs react, react-native, nodejs and GraphQL 
+- 🔭 I’m currently working as a full stack developer
+- 🌱 I’m currently learning Golang, Typescript, NextJs react, React-native, Nodejs and GraphQL 
 
 
  <div>
