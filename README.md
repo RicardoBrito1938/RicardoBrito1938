@@ -82,6 +82,7 @@ Feel free to reach out or connect with me on any platform:
 - 📚 I enjoy exploring new technologies and constantly improving my skills.
 - 🏋️‍♂️ Fitness enthusiast who loves strength training and running.
 - 🌍 Always curious about how technology can solve real-world problems.
+- 🧙‍♂️ Huge fan of *The Lord of the Rings* (LOTR).
 
 <div align="center">
      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVsMTdtNWNncWRzOXI0M3pzbzV0MzNhdGNqNHpmbXhmNW5lNXJjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cRNaqc8WeDvDEV7Pwg/giphy.webp" alt="Funny GIF">
