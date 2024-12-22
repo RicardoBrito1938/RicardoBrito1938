@@ -84,5 +84,5 @@ Feel free to reach out or connect with me on any platform:
 - 🌍 Always curious about how technology can solve real-world problems.
 
 <div align="center">
-     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21hbno2ajhsbGtnbTJncmkwdzkyN2R6aWsxendmZXpjM2tobjFpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.webp" alt="Funny GIF">
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVsMTdtNWNncWRzOXI0M3pzbzV0MzNhdGNqNHpmbXhmNW5lNXJjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cRNaqc8WeDvDEV7Pwg/giphy.webp" alt="Funny GIF">
 </div>
